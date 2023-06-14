@@ -26,24 +26,20 @@ To lay the foundation for a detailed analysis of the phase diagrams, we analyzed
 ## Contents 
 To validate our phase diagram results and gain further insights, we performed simulations of the models under different parameter combinations. These simulations allowed us to analyze the different types of segregation that occurred within the system. By comparing the simulation results with our analytical findings, we confirmed the accuracy and reliability of our phase diagram analysis.
 
-### class_schelling: 
+### Class_schelling: 
 This class allows to create the instances of the schelling city. Its builtin methods allow to compute in a computationally efficient ways different parameters of the configurations given (i.e. the state of the city). 
 
-### equilibria: 
+### Equilibria: 
 The main objective of this notebook is to explore the attainment of equilibria under different initial conditions in a Schelling city model. In this context, equilibrium is defined according to Gauvin et al. as follows: "Equilibrium can be understood in two distinct situations: (i) the system no longer evolves (fixed point); (ii) the system reaches a stationary state where the fluctuations of the relevant parameters remain small over a significant number of time steps." In our analysis, we will focus on case (ii) and evaluate these fluctuations by calculating the standard deviation of the model's parameters.
 
-### opt_numpy and opt_multiprocessing:
+### Opt_numpy and Opt_multiprocessing:
 Opirmization functions built outside our class_schelling environment
 
-### main:
+### Main:
 In this python notebook a preliminary exploration of the system is done. 
 
-### phase_diagrams:
-Hetre all the phases diagrams are derived, 
-
-
-
-
+### Phase_diagrams:
+Hetre all the phases diagrams are derived, the results are based on the derivation of the equilibria above.
 
 ## Future Directions
 
