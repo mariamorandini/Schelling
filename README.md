@@ -7,7 +7,7 @@ Sociological and Economic Model Analysis using Statistical Physics: Schelling an
 - [Introduction](#introduction)
 - [Main Results](#main-results)
 - [Phase Diagram Analysis](#phase-diagram-analysis)
-- [Simulation and Validation](#simulations)
+- [Contents and Simulations]
 - [Future Directions](#future-directions)
 
 ## Introduction
@@ -24,11 +24,19 @@ Through a combination of analytical and numerical analysis, our study demonstrat
 
 To lay the foundation for a detailed analysis of the phase diagrams, we analyzed the Blume Capel model in full generality. This analysis provides a simplified case for understanding the phase behavior. We explored various quantities analogous to physical quantities, such as energy and entropy, to develop a comprehensive physical perspective on the system.
 
-## Simulation and Validation
-
+## Contents and Simulations
 To validate our phase diagram results and gain further insights, we performed simulations of the models under different parameter combinations. These simulations allowed us to analyze the different types of segregation that occurred within the system. By comparing the simulation results with our analytical findings, we confirmed the accuracy and reliability of our phase diagram analysis.
 
-There are present different files:
+### class_schelling: 
+This class allows to create the instances of the schelling city. Its builtin methods allow to compute in a computationally efficient ways different parameters of the configurations given (i.e. the state of the city). 
+
+
+
+### equilibria: 
+The main objective of this notebook is to explore the attainment of equilibria under different initial conditions in a Schelling city model. In this context, equilibrium is defined according to Gauvin et al. as follows: "Equilibrium can be understood in two distinct situations: (i) the system no longer evolves (fixed point); (ii) the system reaches a stationary state where the fluctuations of the relevant parameters remain small over a significant number of time steps." In our analysis, we will focus on case (ii) and evaluate these fluctuations by calculating the standard deviation of the model's parameters.
+
+
+
 
 
 ## Future Directions
