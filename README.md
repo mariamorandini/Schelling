@@ -43,6 +43,4 @@ While our study has provided valuable insights, there are several avenues for fu
 
 We encourage researchers and enthusiasts to build upon our work and explore these directions for further understanding the dynamics of sociological and economic systems using statistical physics models.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
