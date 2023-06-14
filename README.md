@@ -7,7 +7,7 @@ Sociological and Economic Model Analysis using Statistical Physics: Schelling an
 - [Introduction](#introduction)
 - [Main Results](#main-results)
 - [Phase Diagram Analysis](#phase-diagram-analysis)
-- [Contents and Simulations]
+- [Contents and Simulations] (#contents-and-simulations)
 - [Future Directions](#future-directions)
 
 ## Introduction
@@ -18,7 +18,6 @@ This repository contains the code and analysis for our study on the analogy betw
 
 Through a combination of analytical and numerical analysis, our study demonstrates the validity of the analogy between the sociological and economic model, the Schelling model, and statistical physics models. We have obtained valuable insights by comparing the phase diagrams of these models. 
 
-## 
 
 ## Phase Diagram Analysis
 
