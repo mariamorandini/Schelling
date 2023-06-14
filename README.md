@@ -41,6 +41,9 @@ In this python notebook a preliminary exploration of the system is done.
 ### Phase_diagrams:
 Hetre all the phases diagrams are derived, the results are based on the derivation of the equilibria above.
 
+### Simulation_results: 
+Contanins the results of the simulation to be uploaded notebook by notebook. The ones marked as intermezzo are the intermediate files of the equilibria notebook. 
+
 ## Future Directions
 
 While our study has provided valuable insights, there are several avenues for further exploration and expansion of the analysis. Some possible directions include:
